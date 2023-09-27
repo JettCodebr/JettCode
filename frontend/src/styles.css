@@ -1,0 +1,12 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background: linear-gradient(to bottom right, #020511, #2a3146);
+  }
+  
+  .container h1 {
+    margin: 0; /* Zera as margens */
+    padding: 0; /* Zera os preenchimentos */
+  }
+  
