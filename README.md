@@ -18,7 +18,7 @@ JettCode é uma empresa dedicada ao desenvolvimento web e mobile, além de espec
 
 Quer saber mais sobre nós ou discutir um projeto? Não hesite em nos contatar:
 
-- **Telefones:** (11)97292-9800 ou (11)97114-5352
+- **Telefones:** (11) 97292-9800 ou (11) 97114-5352
 - **E-mail:** contato.jettcode@gmail.com
 
 **Vamos criar o futuro digital juntos!** 🚀
