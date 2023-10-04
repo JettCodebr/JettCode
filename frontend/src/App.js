@@ -1,10 +1,10 @@
 import React from 'react';
 import './styles.css';
-
+import Button from './componentes/button';
 function App() {
   return (
     <div className = "container">
-      <h1 className='Title'>Teste</h1>
+      <Button/>
     </div>
   );
 }
